@@ -1,4 +1,4 @@
-## Covid19 text network
+## Information Mining for COVID-19 Research From a Large Volume of Scientific Literature
 In this work, we develop a dense graph network of words to summarize thousands of research articles into topics related to coronavirus. We used COVID-19 Open Research Dataset (CORD-19), which is prepared by the White House and a coalition of leading research groups. CORD-19 is a resource of over 47,000 scholarly articles, including over 36,000 with full text, about COVID-19, SARS-CoV-2, and related coronaviruses. This freely available dataset is provided to the global research community to apply recent advances in natural language processing and other AI techniques to generate new insights in support of the ongoing fight against this infectious disease. 
 
 ## Graph
@@ -26,4 +26,4 @@ Covid19 dataset can be downloaded from https://www.kaggle.com/allen-institute-fo
 
 ## Paper:
 
-I this folder, the manuscript is located. The paper is being written on overleaf.com.
+The manuscript associated with work can be found on here: https://arxiv.org/abs/2004.02085.
